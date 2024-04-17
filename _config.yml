@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "lrq.png"
   name             : "Rongqin Liang"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Never give up !"
   location         : "China/Shenzhen"
   school           : "Shenzhen University"
