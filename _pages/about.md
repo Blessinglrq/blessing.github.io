@@ -15,6 +15,7 @@ My publications are as follows:
 2. [**Rongqin Liang**, Yuanman Li, Xia Li, Yi Tang, Jiantao Zhou, Wenbin Zou, "*Temporal Pyramid Network for Pedestrian Trajectory Prediction with Multi-Supervision*," AAAI Conference on Artificial Intelligence (AAAI), 2021, pp. 2029-2037.](https://ojs.aaai.org/index.php/AAAI/article/view/16299)
 3. [Yuanman Li, **Rongqin Liang**, Wei Wei, Wei Wang, Jiantao Zhou, Xia Li, "*Temporal Pyramid Network With Spatial-Temporal Attention for Pedestrian Trajectory Prediction*," IEEE Transactions on Network Science and Engineering, vol. 9, no. 3, pp. 1006-1019, 2022.](https://ieeexplore.ieee.org/document/9373939)
 
+Cooperative publications are as follows:
 ======
 1. [Yuanman Li, Jiaxiong Ye, Limin Zeng, **Rongqin Liang**, Xianwei Zheng, WeiWei Sun, Na Wang, "*Learning Hierarchical Fingerprints via Multi-Level Fusion for Video Integrity and Source Analysis*," IEEE Transactions on Consumer Electronics, 2024.](https://ieeexplore.ieee.org/document/10413510)
 2. [Yuanman Li, Ce Xie, **Rongqin Liang**, Jie Du, Jiantao Zhou, Xia Li, "*A Synchronous Bi-Directional Framework With Temporally Dependent Interaction Modeling for Pedestrian Trajectory Prediction*," IEEE Transactions on Network Science and Engineering, vol. 11, no. 1, pp. 793-806, 2024.](https://ieeexplore.ieee.org/document/10230870)
