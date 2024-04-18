@@ -11,7 +11,7 @@ I earned my B.Eng. degree in Communication Engineering from Wuyi University, Gua
 
 My publications are as follows:
 ======
-1. [**Rongqin Liang**, Yuanman Li, Jiantao Zhou, Xia Li, "*Text-Driven Traffic Anomaly Detection with Temporal High-Frequency Modeling in Driving Videos*," IEEE Transactions on Circuits and Systems for Video Technology, 2024.](https://ieeexplore.ieee.org/document/10195882)
+1. [**Rongqin Liang**, Yuanman Li, Jiantao Zhou, Xia Li, "*Text-Driven Traffic Anomaly Detection with Temporal High-Frequency Modeling in Driving Videos*," IEEE Transactions on Circuits and Systems for Video Technology, 2024.](https://ieeexplore.ieee.org/document/10504300)
 2. [**Rongqin Liang**, Yuanman Li, Jiantao Zhou, Xia Li, "*STGlow: A Flow-Based Generative Framework With Dual-Graphormer for Pedestrian Trajectory Prediction*," IEEE Transactions on Neural Networks and Learning Systems, 2024.](https://ieeexplore.ieee.org/document/10195882)
 3. [**Rongqin Liang**, Yuanman Li, Xia Li, Yi Tang, Jiantao Zhou, Wenbin Zou, "*Temporal Pyramid Network for Pedestrian Trajectory Prediction with Multi-Supervision*," AAAI Conference on Artificial Intelligence (AAAI), 2021, pp. 2029-2037.](https://ojs.aaai.org/index.php/AAAI/article/view/16299)
 4. [Yuanman Li, **Rongqin Liang**, Wei Wei, Wei Wang, Jiantao Zhou, Xia Li, "*Temporal Pyramid Network With Spatial-Temporal Attention for Pedestrian Trajectory Prediction*," IEEE Transactions on Network Science and Engineering, vol. 9, no. 3, pp. 1006-1019, 2022.](https://ieeexplore.ieee.org/document/9373939)
